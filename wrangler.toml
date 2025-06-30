@@ -1,0 +1,4 @@
+name = "kakomon-study-api"
+type = "javascript"
+main = "src/index.ts"
+compatibility_date = "2025-06-30"
