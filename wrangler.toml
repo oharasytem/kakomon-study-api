@@ -1,4 +1,8 @@
 name = "kakomon-study-api"
-type = "javascript"
 main = "src/index.ts"
 compatibility_date = "2025-06-30"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "kakomon-study-db-dev"
+database_id = "4f5af884-2f55-4833-8631-f747eafc132a"
